@@ -1,0 +1,44 @@
+{
+    "thumbnails":[
+        {
+            "imgUrl": "https://www.esri.com/content/dam/esrisites/en-us/industries/banking/device-ensure-customer-remaind-key.png",
+            "title": "Resources: success story",
+            "bodytext": "Maps Help Tanker Owners and Coastal Communities Prepare for Potential Disaster GIS Enhances Safety Efficiency at Dow Corning’s Midland Plant"
+        },
+        {
+            "imgUrl": "https://www.esri.com/content/dam/esrisites/en-us/home/harvey-flood.jpg",
+            "title": "Managing Risk with Location Intelligence",
+            "bodytext": "The frequency and intensity of natural disasters has increased in recent years. Explore how the insurance industry is addressing these new risks."
+        },
+        {
+            "imgUrl": "https://www.esri.com/content/dam/esrisites/en-us/disaster-response-program/images/wildfire-activity-map-06.jpg",
+            "title": "When the Tides Rise",
+            "bodytext": "Discover how innovative insurance companies are leveraging location intelligence to proactively forecast the impact of catastrophic (CAT) events."
+        },
+        {
+            "imgUrl": "https://www.esri.com/content/dam/esrisites/en-us/media/images/2019-video-thumbnails/2019-03-hurricane-explorer-demo-thumb-644x352.jpg",
+            "title": "Innovating Location Intelligence",
+            "bodytext": "Hear from Esris Alexander Martonik on how insurance companies are transforming strategic operations with enhanced spatial analytics."
+        },
+        {
+            "imgUrl": "https://www.esri.com/content/dam/esrisites/en-us/common/event-cards/event-user-conference.jpg",
+            "title": "Esri User Conference",
+            "bodytext": "July 8–12, 2019 | San Diego, California, USA"
+        },
+        {
+            "imgUrl": "https://www.esri.com/content/dam/esrisites/en-us/common/event-cards/event-petroleum-user-conference-pug.jpg",
+            "title": "Esri Petroleum GIS Conference",
+            "bodytext": "The frequency and intensity of natural disasters has increased in recent years. Explore how the insurance industry is addressing these new risks."
+        },
+        {
+            "imgUrl": "https://www.esri.com/content/dam/esrisites/en-us/industries/petroleum/Downstream_App-2.jpg",
+            "title": "ArcGIS Business Analyst",
+            "bodytext": "Combine demographic data with spatial analysis to optimize retail performance."
+        },
+        {
+            "imgUrl": "https://www.esri.com/content/dam/esrisites/en-us/industries/petroleum/Downstream_App-1.jpg",
+            "title": "Navigator for ArcGIS",
+            "bodytext": "Direct field workforce to increase efficiency."
+        }
+    ]
+}
